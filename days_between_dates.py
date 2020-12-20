@@ -47,3 +47,4 @@ if __name__ == "__main__":
 	print(f"Total Days: {sum(days_counted.values())}\n")
 	for day, count in days_counted.items():
 		print(f"{day}s: {count}")
+	input()
